@@ -4,6 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Untagged
+  - Respawn
+  - Finish
+  - EditorOnly
+  - MainCamera
+  - Player
+  - GameController
   - Obstacles
   layers:
   - Default
